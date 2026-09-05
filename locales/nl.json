@@ -1,0 +1,17 @@
+{
+    "notify_dead": "Je kunt dit niet gebruiken terwijl je dood bent!",
+    "notify_slow": "Rustig aan!",
+    "notify_in_veh": "Je kunt dit niet doen terwijl je in een voertuig zit!",
+    "notify_success": "Voertuig succesvol gehuurd",
+    "notify_insufficient_money": "Onvoldoende geld",
+    "notify_insufficient_vip": "Onvoldoende %s",
+    "notify_invalid_player": "Ongeldige speler",
+    "notify_invalid_veh": "Ongeldig voertuig",
+    "notify_spawn_failed": "Voertuig kon niet worden gespawnd!",
+    "menu_title": "Autoverhuur",
+    "menu_sub": "Huur een auto voor je reis",
+    "kiralik_arac_menusu": "Autoverhuur Menu",
+    "free": "GRATIS",
+    "rent_vehicle": "VOERTUIG HUREN",
+    "close": "SLUITEN"
+}

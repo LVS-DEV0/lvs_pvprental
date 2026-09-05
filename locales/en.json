@@ -1,0 +1,17 @@
+{
+    "notify_dead": "You cannot use this while dead!",
+    "notify_slow": "Slow down!",
+    "notify_in_veh": "You cannot do this while in a vehicle!",
+    "notify_success": "Vehicle rented successfully",
+    "notify_insufficient_money": "Insufficient money",
+    "notify_insufficient_vip": "Insufficient %s",
+    "notify_invalid_player": "Invalid Player",
+    "notify_invalid_veh": "Invalid Vehicle",
+    "notify_spawn_failed": "Vehicle could not be spawned!",
+    "menu_title": "Car Rental",
+    "menu_sub": "Rent a car for your journey",
+    "kiralik_arac_menusu": "Car Rental Menu",
+    "free": "FREE",
+    "rent_vehicle": "RENT VEHICLE",
+    "close": "CLOSE"
+}

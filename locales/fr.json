@@ -1,0 +1,17 @@
+{
+    "notify_dead": "Vous ne pouvez pas utiliser ceci en étant mort !",
+    "notify_slow": "Ralentissez !",
+    "notify_in_veh": "Vous ne pouvez pas faire cela en étant dans un véhicule !",
+    "notify_success": "Véhicule loué avec succès",
+    "notify_insufficient_money": "Argent insuffisant",
+    "notify_insufficient_vip": "%s insuffisant",
+    "notify_invalid_player": "Joueur invalide",
+    "notify_invalid_veh": "Véhicule invalide",
+    "notify_spawn_failed": "Le véhicule n'a pas pu être généré !",
+    "menu_title": "Location de voitures",
+    "menu_sub": "Louez une voiture pour votre voyage",
+    "kiralik_arac_menusu": "Menu de location de voitures",
+    "free": "GRATUIT",
+    "rent_vehicle": "LOUER UN VÉHICULE",
+    "close": "FERMER"
+}

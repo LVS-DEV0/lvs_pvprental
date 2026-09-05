@@ -1,0 +1,17 @@
+{
+    "notify_dead": "Você não pode usar isso enquanto estiver morto!",
+    "notify_slow": "Vá devagar!",
+    "notify_in_veh": "Você não pode fazer isso enquanto estiver em um veículo!",
+    "notify_success": "Veículo alugado com sucesso",
+    "notify_insufficient_money": "Dinheiro insuficiente",
+    "notify_insufficient_vip": "%s insuficiente",
+    "notify_invalid_player": "Jogador Inválido",
+    "notify_invalid_veh": "Veículo Inválido",
+    "notify_spawn_failed": "O veículo não pôde ser gerado!",
+    "menu_title": "Aluguel de Carros",
+    "menu_sub": "Alugue um carro para sua viagem",
+    "kiralik_arac_menusu": "Menu de Aluguel de Carros",
+    "free": "GRÁTIS",
+    "rent_vehicle": "ALUGAR VEÍCULO",
+    "close": "FECHAR"
+}

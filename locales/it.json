@@ -1,0 +1,17 @@
+{
+    "notify_dead": "Non puoi usarlo mentre sei morto!",
+    "notify_slow": "Rallenta!",
+    "notify_in_veh": "Non puoi farlo mentre sei in un veicolo!",
+    "notify_success": "Veicolo noleggiato con successo",
+    "notify_insufficient_money": "Denaro insufficiente",
+    "notify_insufficient_vip": "%s insufficiente",
+    "notify_invalid_player": "Giocatore non valido",
+    "notify_invalid_veh": "Veicolo non valido",
+    "notify_spawn_failed": "Impossibile generare il veicolo!",
+    "menu_title": "Noleggio Auto",
+    "menu_sub": "Noleggia un'auto per il tuo viaggio",
+    "kiralik_arac_menusu": "Menu Noleggio Auto",
+    "free": "GRATIS",
+    "rent_vehicle": "NOLEGGIA VEICOLO",
+    "close": "CHIUDI"
+}

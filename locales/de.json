@@ -1,0 +1,17 @@
+{
+    "notify_dead": "Du kannst das nicht tun, während du tot bist!",
+    "notify_slow": "Langsam!",
+    "notify_in_veh": "Du kannst das nicht tun, während du in einem Fahrzeug bist!",
+    "notify_success": "Fahrzeug erfolgreich gemietet",
+    "notify_insufficient_money": "Unzureichendes Geld",
+    "notify_insufficient_vip": "Unzureichende %s",
+    "notify_invalid_player": "Ungültiger Spieler",
+    "notify_invalid_veh": "Ungültiges Fahrzeug",
+    "notify_spawn_failed": "Fahrzeug konnte nicht gespawnt werden!",
+    "menu_title": "Autovermietung",
+    "menu_sub": "Miete ein Auto für deine Reise",
+    "kiralik_arac_menusu": "Autovermietungsmenü",
+    "free": "KOSTENLOS",
+    "rent_vehicle": "AUTO MIETEN",
+    "close": "SCHLIESSEN"
+}

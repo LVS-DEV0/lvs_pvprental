@@ -1,0 +1,17 @@
+{
+    "notify_dead": "Nie możesz tego używać, gdy nie żyjesz!",
+    "notify_slow": "Zwolnij!",
+    "notify_in_veh": "Nie możesz tego zrobić, będąc w pojeździe!",
+    "notify_success": "Pojazd wypożyczony pomyślnie",
+    "notify_insufficient_money": "Niewystarczająca ilość pieniędzy",
+    "notify_insufficient_vip": "Niewystarczająca ilość %s",
+    "notify_invalid_player": "Nieprawidłowy gracz",
+    "notify_invalid_veh": "Nieprawidłowy pojazd",
+    "notify_spawn_failed": "Nie udało się zespawnować pojazdu!",
+    "menu_title": "Wypożyczalnia samochodów",
+    "menu_sub": "Wypożycz samochód na swoją podróż",
+    "kiralik_arac_menusu": "Menu wypożyczalni samochodów",
+    "free": "ZA DARMO",
+    "rent_vehicle": "WYNAJMIJ POJAZD",
+    "close": "ZAMKNIJ"
+}

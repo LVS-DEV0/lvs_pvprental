@@ -1,0 +1,17 @@
+{
+    "notify_dead": "Ölüyken bunu kullanamazsın!",
+    "notify_slow": "Az yavaş!",
+    "notify_in_veh": "Araçtayken bunu yapamazsın!",
+    "notify_success": "Araç başarıyla kiralandı",
+    "notify_insufficient_money": "Yetersiz bakiye",
+    "notify_insufficient_vip": "Yetersiz %s",
+    "notify_invalid_player": "Geçersiz Oyuncu",
+    "notify_invalid_veh": "Geçersiz Araç",
+    "notify_spawn_failed": "Araç oluşturulamadı!",
+    "menu_title": "Araç Kiralama",
+    "menu_sub": "Yolculuğun için bir araç kirala",
+    "kiralik_arac_menusu": "Araç Kiralama Menüsü",
+    "free": "ÜCRETSİZ",
+    "rent_vehicle": "ARACI KİRALA",
+    "close": "KAPAT"
+}
